@@ -56,10 +56,9 @@ This project aims to develop and deploy a temperature forecasting model using Re
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Install the required Python libraries by running `pip install -r requirements.txt`.
-3. Preprocess the weather data using the provided scripts.
-4. Train the RNN model using the training data.
-5. Use the model for temperature forecasting in Turkey.
+2. Preprocess the weather data using the provided scripts.
+3. Train the RNN model using the training data.
+4. Use the model for temperature forecasting in Turkey.
 
 <br>
 
@@ -71,7 +70,7 @@ Contributions to this project are welcome. You can contribute by improving data 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/doguilmak/Temp-Forecast-RNN/blob/main/LICENSE) file for details.
 
 <br>
 
